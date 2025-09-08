@@ -39,7 +39,7 @@ Modelado: OLS como baseline; polinómico G2 con cuadráticos e interacciones.
 Evaluación: comparación en test para medir generalización.
 
 
-La actividad va de 3 documentos:
+El proyecto va de 3 documentos:
 
 [reporte html](P1_652911.html)
 
