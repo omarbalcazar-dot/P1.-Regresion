@@ -9,15 +9,15 @@ Objetivos:
 
 2. Aplicar soluciones C1.5:
 
-Huecos → interpolación y mediana.
+- Huecos → interpolación y mediana.
 
-Outliers → capado IQR.
+- Outliers → capado IQR.
 
-Cualitativas → jerarquía de categorías.
+- Cualitativas → jerarquía de categorías.
 
-Colinealidad → uso de shares y eliminación de dependencias.
+- Colinealidad → uso de shares y eliminación de dependencias.
 
-Interacciones → en modelo polinómico.
+- Interacciones → en modelo polinómico.
 
 3. Seleccionar variables con eliminación hacia atrás.
 
