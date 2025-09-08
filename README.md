@@ -41,8 +41,8 @@ Evaluación: comparación en test para medir generalización.
 
 La actividad va de 3 documentos:
 
-[reporte html](P1.1_652911.html)
+[reporte html](P1_652911.html)
 
-[reporte ipynb](P1.1_652911.ipynb)
+[reporte ipynb](P1_652911.ipynb)
 
 [reporte pib_turismo.csv](pib_turismo.csv)
